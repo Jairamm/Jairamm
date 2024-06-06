@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/OIP.A6Sl8DS_C6-mYf2KiqvtyAHaFj?rs=1&pid=ImgDetMain)](https://jairamm.io)
+[![MasterHead](https://api.reliasoftware.com/uploads/hire_nodejs_developers_a03a8d30ad.jpg)](https://jairamm.io)
 <h1 align="center">Hi 👋, I'm Hari Om Pandey</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="left" alt="Coding" width="400" src="https://media.tenor.com/sX3-k0f3waAAAAAj/hacker-hacker-meme.gif">
