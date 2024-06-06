@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperbat.com/img/9351869-java-developer.png)](https://jairamm.io)
+[![MasterHead](https://technovids.com/wp-content/uploads/2022/04/Full-Stack-Developer-Training-1024x615.jpg)](https://jairamm.io)
 <h1 align="center">Hi 👋, I'm Hari Om Pandey</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="center" alt="Coding" width="400" src="https://media.tenor.com/sX3-k0f3waAAAAAj/hacker-hacker-meme.gif">
