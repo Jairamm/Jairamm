@@ -1,4 +1,4 @@
-[![MasterHead](https://e0.pxfuel.com/wallpapers/541/134/desktop-wallpaper-java-fiery-logo-programming-language-orange-stone-background-creative-java-logo-programming-language-signs-java-for-with-resolution-high-quality-thumbnail.jpg)](https://rishavchanda.io)
+[![MasterHead](https://th.bing.com/th/id/OIP.P053zu7YwdWvwH3yD-OaYAHaDV?pid=ImgDet&w=180&h=81&c=7)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Hari Om Pandey</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="left" alt="Coding" width="400" src="https://media.tenor.com/sX3-k0f3waAAAAAj/hacker-hacker-meme.gif">
