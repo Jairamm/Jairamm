@@ -1,4 +1,4 @@
-[![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=bfkv4gxn&id=40464D5BD0585946F4FD76F2CD4B557C3934A8E9&thid=OIP.bfkv4gxnHQSi8rzEkGx-SgHaEM&mediaurl=https%3a%2f%2fdemotix.com%2fwp-content%2fuploads%2f2019%2f06%2fHow-to-Hire-Web-Developer.gif&exph=850&expw=1500&q=programming+banner+gif&simid=608038615361342786&FORM=IRPRST&ck=64FE0E715B2E2729C0F907A9BA8822B0&selectedIndex=51&itb=0)](https://rishavchanda.io)
+[![MasterHead](https://th.bing.com/th/id/OIP.A6Sl8DS_C6-mYf2KiqvtyAHaFj?rs=1&pid=ImgDetMain)](https://jairamm.io)
 <h1 align="center">Hi 👋, I'm Hari Om Pandey</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="left" alt="Coding" width="400" src="https://media.tenor.com/sX3-k0f3waAAAAAj/hacker-hacker-meme.gif">
